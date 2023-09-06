@@ -81,6 +81,7 @@ h1 ~ p {
 }
 
 .card img + p {
+    margin-top: 15px;
     font-weight: 700;
     letter-spacing: 0.56px;
 }
